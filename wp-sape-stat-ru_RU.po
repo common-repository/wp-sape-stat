@@ -1,0 +1,454 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Sape Stat\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-09-27 06:44+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: ART SAVELIEV <artsav@artsav.com>\n"
+"Language-Team: seogad <artsav@artsav.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:249
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:514
+msgid "January"
+msgstr "Январь"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:250
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:515
+msgid "February"
+msgstr "Февраль"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:251
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:516
+msgid "March"
+msgstr "Март"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:252
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:517
+msgid "April"
+msgstr "Апрель"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:253
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:518
+msgid "May"
+msgstr "Май"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:254
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:519
+msgid "Juin"
+msgstr "Июнь"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:255
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:520
+msgid "July"
+msgstr "Июль"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:256
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:521
+msgid "August"
+msgstr "Август"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:257
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:522
+msgid "September"
+msgstr "Сентябрь"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:258
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:523
+msgid "October"
+msgstr "Октябрь"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:259
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:524
+msgid "November"
+msgstr "Ноябрь"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:260
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:525
+msgid "December"
+msgstr "Декабрь"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:296
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:654
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:937
+msgid "Sape.ru Statistics"
+msgstr "Статистика Sape.ru"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:300
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:390
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:499
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:607
+msgid "Today & Yesterday"
+msgstr "Сегодня и вчера"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:301
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:391
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:500
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:608
+msgid "Month"
+msgstr "Месяц"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:302
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:392
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:501
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:609
+msgid "Year"
+msgstr "Год"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:302
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:392
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:404
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:501
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:529
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:610
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:613
+msgid "Total"
+msgstr "Всего"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:305
+msgid "Status"
+msgstr "Статус"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:306
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:612
+msgid "URL"
+msgstr "URL"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:307
+msgid "Yesterday"
+msgstr "Вчера"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:308
+msgid "Today"
+msgstr "Сегодня"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:309
+msgid "CY"
+msgstr "тИЦ"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:310
+msgid "PR"
+msgstr "PR"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:311
+msgid "Yandex pages"
+msgstr "Страниц в Яндексе"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:312
+msgid "Google pages"
+msgstr "Страниц в Google"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:354
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:450
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:572
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:641
+msgid "All sites"
+msgstr "Все сайты"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:395
+msgid "&laquo; Previous month"
+msgstr "&laquo; Предыдущий месяц"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:397
+msgid "Next month &raquo;"
+msgstr "Следующий месяц &raquo;"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:401
+msgid "URL/Date"
+msgstr "URL/Дата"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:472
+msgid "Day income"
+msgstr "Ежедневный доход"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:473
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:593
+msgid "Middle:"
+msgstr "Средний:"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:474
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:594
+msgid "Maximal:"
+msgstr "Максимальный:"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:475
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:595
+msgid "Minimal:"
+msgstr "Минимальный:"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:481
+msgid "You haven't earned anything with sape.ru this month!"
+msgstr "В этом месяце вы ничего не заработали с sape.ru!"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:511
+msgid "URL/Month"
+msgstr "URL/Месяц"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:592
+msgid "Month income"
+msgstr "Ежемесячный доход"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:605
+msgid "You haven't earned anything with sape.ru this year!"
+msgstr "В этом году вы ничего не заработали с sape.ru!"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:655
+msgid "You must specify your login and password."
+msgstr "необходимо указать логин и пароль."
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:655
+msgid "Configure WP Sape Stat"
+msgstr "Настроить WP Sape Stat"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:656
+msgid "Create an account in"
+msgstr "Создайте аккаунт в"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:656
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:714
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:794
+msgid "Sape.ru"
+msgstr "Sape.ru"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:656
+msgid "if you haven't done it yet."
+msgstr "если ещё не сделали это."
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:705
+msgid "Settings Updated."
+msgstr "Настройки обновлены."
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:712
+msgid "WP Sape Stat Configuration"
+msgstr "Настройка WP Sape Stat"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:714
+msgid "If you still don't have your account in"
+msgstr "Если у вас ещё нет аккаунта в"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:714
+msgid "just create it and start earning money now!"
+msgstr "создайте его и начните зарабатывать деньги!"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:716
+msgid "Your Sape.ru login"
+msgstr "Ваш логин на Sape.ru"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:719
+msgid "Your Sape.ru Password"
+msgstr "Ваш пароль на Sape.ru"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:722
+msgid "Update Statistics"
+msgstr "Обновление статистики"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:723
+msgid "How often should the plugin update your sape.ru statistics? In minutes"
+msgstr "Как часто необходимо обновлять статистику? В минутах"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:726
+msgid "Show Yandex Thematic Index?"
+msgstr "Показывать тИЦ Яндекса?"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:730
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:734
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:742
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:746
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:754
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:758
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:766
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:770
+msgid "checked=\"checked\""
+msgstr "checked=\"checked\""
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:731
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:743
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:755
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:767
+msgid "Yes"
+msgstr "Да"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:735
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:747
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:759
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:771
+msgid "No"
+msgstr "Нет"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:738
+msgid "Show Google Page Rank?"
+msgstr "Показывать Google Page Rank?"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:750
+msgid "Show number of indexed pages in Yandex?"
+msgstr "Показывать количество проиндексированных Яндексом страниц?"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:762
+msgid "Show number of indexed pages in Google?"
+msgstr "Показывать количество проиндексированных страниц в Google?"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:775
+msgid "Save Settings"
+msgstr "Сохранить настройки"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:780
+msgid "Copyright Information"
+msgstr "Правовая информация"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:781
+msgid "This plugin is free and uses"
+msgstr "Это бесплатный плагин, распространяемый по"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:781
+msgid "GNU/GPL license"
+msgstr "лицензии GNU/GPL"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:781
+msgid "The author of this plugin is one of the russians moneymakers, known as "
+msgstr "Автор плагина — один из российских манимейкеров, известный как "
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:781
+msgid "Seogad"
+msgstr "Сеогад"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:781
+msgid "It is also to note that the plugin is based on"
+msgstr "Стоит отметить, что плагин основан на"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:781
+msgid "this great code"
+msgstr "этом прекрасном скрипте"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:781
+msgid "developed by"
+msgstr "разработанном"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:781
+msgid "Spryt"
+msgstr "Spryt'ом"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:782
+msgid "If you like this plugin and want it to be developed in the future, please donate or give me some useful advise by sending e-mail or leaving a comment on my"
+msgstr "Если вам нравится этот плагин, и вы хотели бы поспособствовать его будущей разработке, отправьте материальную помощь или дайте дельный совет по электронной почте или оставив комментарий на моём"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:782
+msgid "web-site"
+msgstr "сайте"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:783
+msgid "How to donate?"
+msgstr "Как помочь?"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:784
+msgid "It is simple. Just send me some money (earned using sape.ru of course :) to webmoney or Yandex.money. You can also send me some TNX-points (xaps) or you can ask me about any other way of help."
+msgstr "Отправьте мне н-ную сумму (конечно же, заработанную в sape.ru :) на webmoney или Яндекс.Деньги. Также вы можете отправить мне ксапы, если у вас есть аккаунт в xap.ru, или спросить меня о других возможных способах помочь. "
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:786
+msgid "Ruble"
+msgstr "Рубли"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:787
+msgid "Dollar"
+msgstr "Доллары"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:788
+msgid "Euro"
+msgstr "Евро"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:789
+msgid "Ukraine Hryvna"
+msgstr "Гривны"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:790
+msgid "Gold!"
+msgstr "Золото!"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:791
+msgid "Yandex.Money"
+msgstr "Яндекс.Деньги"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:792
+msgid "TNX ID"
+msgstr "XAP ID"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:794
+msgid "Thank you for using this plugin and earning money with"
+msgstr "Спасибо за использование плагина и зарабатывание денег с"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:941
+msgid "Widget is not configured!"
+msgstr "Виджет не настроен!"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:943
+msgid "Today:"
+msgstr "Сегодня:"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:943
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:944
+msgid "RUR"
+msgstr "руб."
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:944
+msgid "Yesterday:"
+msgstr "Вчера:"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:945
+msgid "Number of sites:"
+msgstr "Кол-во сайтов:"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:946
+msgid "Total CY:"
+msgstr "Общий тИЦ:"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:947
+msgid "Total PR:"
+msgstr "Общий PR"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:948
+msgid "Yandexed pages:"
+msgstr "Страниц в Яндексе:"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:949
+msgid "Googled pages:"
+msgstr "Страниц в Google:"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:951
+msgid "Powered by"
+msgstr "Работает на"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:982
+msgid "Title"
+msgstr "Заголовок"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:983
+msgid "Show:"
+msgstr "Показывать:"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:985
+msgid "Number of sites"
+msgstr "Кол-во сайтов"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:987
+msgid "Yandex CY"
+msgstr "ТИЦ"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:989
+msgid "Google PR"
+msgstr "Google PR"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:991
+msgid "Yandexed pages"
+msgstr "Кол-во стр. в Яндексе"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:993
+msgid "Googled pages"
+msgstr "Кол-во стр. в Google"
+
+#: /home/artsav/Travail/Work/Sites/seogad/sape/wp-sape-stat/wp-sape-stat.php:995
+msgid "Author link"
+msgstr "Ссылка на разработчика"
+
